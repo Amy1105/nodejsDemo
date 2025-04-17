@@ -1,7 +1,2 @@
 obj
-
-**/Debug
-**/bin
-**/obj
-**/node_modules
-**/Logger
+node_modules
