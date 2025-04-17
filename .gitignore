@@ -1,0 +1,7 @@
+obj
+
+**/Debug
+**/bin
+**/obj
+**/node_modules
+**/Logger
